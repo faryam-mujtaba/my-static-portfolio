@@ -36,11 +36,11 @@ This project is a static personal portfolio website created using HTML and CSS. 
 
 ## Live Website
 
-https://faryam-mujtaba.github.io/Task-1-Static-Portfolio-Faryam-Mujtaba/
+https://faryam-mujtaba.github.io/Simple-Portfolio-Design/
 
 ## GitHub Repository
 
-https://github.com/faryam-mujtaba/Task-1-Static-Portfolio-Faryam-Mujtaba
+https://github.com/faryam-mujtaba/Simple-Portfolio-Design
 
 ## Author
 
