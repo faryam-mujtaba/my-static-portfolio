@@ -1,6 +1,6 @@
 # Task 1 - Static Personal Portfolio Website
 
-This is Task 1 of my Frontend Development Internship at DecodeLabs.
+This is Task 1 of my Frontend journey.
 
 ## Project Title
 
